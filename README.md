@@ -1,7 +1,7 @@
 # modular-admin-angular4
 ModularAdmin - Free Dashboard Theme Built On Bootstrap 4 and Angular 4
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.5.
 
 ### Introduction
 Provides fast, reliable and extensible starter for the development of Angular projects.
