@@ -9,14 +9,14 @@ This is a port, to serve as a boilerplate for Angular4 projects.
 
 <p align="center">
   <strong>
-    <a href="http://modularcode.github.io/modular-admin-html/" target="_blank">View Demo</a> | <a href="https://github.com/modularcode/modular-admin-html/releases" target="_blank">Download ZIP</a>
+    <a href="https://github.com/modularcode/" target="_blank">Visit modularcode's repository</a> | <a href="http://modularcode.github.io/modular-admin-html/" target="_blank">View Demo (HTML Version)</a>
   </strong>
 </p>
 
+## Introduction
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.5.
 
-## Introduction
 Provides fast, reliable and extensible starter for the development of Angular projects.
 
 `sb-admin-bs4-angular4` provides the following features:
