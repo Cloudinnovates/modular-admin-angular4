@@ -21,17 +21,26 @@ Provides fast, reliable and extensible starter for the development of Angular pr
 
 ### Using npm
 
+#### Get project and dependencies
 ```bash
 $ git clone https://github.com/dieguit/modular-admin-angular4.git
 $ cd modular-admin-angular4
 # install the project's dependencies
 $ npm install
-# watches your files and uses livereload by default run `npm start` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+```
+
+#### Start server and watch for changes
+```bash
 $ npm start
-# prod build, will output the production application in `dist`
-# the produced code can be deployed (rsynced) to a remote server
+```
+Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+
+
+#### Create a production build
+```bash
 $ npm run build
 ```
+Will output the production application in `dist`.
 
 ### Using Angular Cli
 #### Development server
