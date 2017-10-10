@@ -1,5 +1,18 @@
 # modular-admin-angular4
-ModularAdmin - Free Dashboard Theme Built On Bootstrap 4 and Angular 4
+ModularAdmin - Free Dashboard Theme Built On Bootstrap 4 and Angular 4.
+
+This is a port, to serve as a boilerplate for Angular4 projects.
+
+[ModularAdmin](http://modularcode.github.io/modular-admin-html/) is an open source dashboard theme built in a modular way. That makes it extremely easy to scale, modify and maintain.
+
+[![demo](http://modularcode.github.io/modular-admin-html/assets/demo.png)](http://modularcode.github.io/modular-admin-html/)
+
+<p align="center">
+  <strong>
+    <a href="http://modularcode.github.io/modular-admin-html/" target="_blank">View Demo</a> | <a href="https://github.com/modularcode/modular-admin-html/releases" target="_blank">Download ZIP</a>
+  </strong>
+</p>
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.5.
 
