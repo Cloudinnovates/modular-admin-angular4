@@ -1,15 +1,9 @@
 import { NgModule } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
+import {LoginComponent} from './auth/login/login.component';
 
 const routes: Routes = [
-    {
-        path: '',
-        loadChildren: './dashboard/dashboard.module#DashboardModule'
-    },
-    { path: 'login', loadChildren: './login/login.module#LoginModule' },
-    { path: 'signup', loadChildren: './signup/signup.module#SignupModule' },
-    { path: 'not-found', loadChildren: './not-found/not-found.module#NotFoundModule' },
-    { path: '**', redirectTo: 'not-found' }
+  { path: 'login', component: LoginComponent}
 ];
 
 @NgModule({
